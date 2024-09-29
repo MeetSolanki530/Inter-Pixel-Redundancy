@@ -68,5 +68,5 @@ In JPEG, after the image is divided into blocks and transformed using DCT, the q
 Inter-pixel redundancy is an essential concept in image compression that enables efficient storage and transmission of images by exploiting the similarities between neighboring pixels. Techniques like Run-Length Encoding, Predictive Coding, and Transform Coding play a vital role in reducing this redundancy. By understanding and applying these methods, image compression becomes more efficient without sacrificing much perceptual quality.
 
 For more detailed readings on image compression techniques and their applications, refer to the following sources:
-- IIETA: "A Comprehensive Literature Review on Image and Video Compression"【[23†source](https://iieta.org/journals/isi/paper/10.18280/isi.290307)】
-- arXiv: "A Survey: Various Techniques of Image Compression"【[24†source](https://arxiv.org/abs/1311.6877)】
+- IIETA: "A Comprehensive Literature Review on Image and Video Compression"【[Link](https://iieta.org/journals/isi/paper/10.18280/isi.290307)】
+- arXiv: "A Survey: Various Techniques of Image Compression"【[Link](https://arxiv.org/abs/1311.6877)】
